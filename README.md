@@ -50,6 +50,6 @@ Ticketly está disponível na Play Store. Baixe agora e experimente uma nova era
 ---
 ## 👤 Autora
 
-Mari de Carvalho, programadora e professora de Yoga.
+Mari de Carvalho, desenvolvedora Mobile.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maridecarvalho)
