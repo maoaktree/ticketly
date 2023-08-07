@@ -6,8 +6,11 @@ O Ticketly é uma ferramenta digital de controle de portaria para eventos e casa
 
 ## Tecnologias Utilizadas
 Linguagem: Dart
+
 Framework: Flutter
+
 Arquitetura: Clean Architecture
+
 Gerenciamento de Estado: Provider
 
 ## Funcionalidades
