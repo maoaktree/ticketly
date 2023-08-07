@@ -1,4 +1,3 @@
-# Ticketly
 ## My First App✨🚀
 
 # Ticketly: Controle de Portaria para Eventos e Casas de Shows
