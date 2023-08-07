@@ -45,7 +45,7 @@ Planejamento e execução de um projeto de aplicativo completo.
 ## Conheça o App
 Ticketly está disponível na Play Store. Baixe agora e experimente uma nova era no gerenciamento de eventos e controle de portaria.
 
-https://play.google.com/store/apps/details?id=br.com.ticketly.app
+[![Play Store](https://img.shields.io/badge/Play%20Store-%230077B5.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=br.com.ticketly.app)
 
 ---
 ## 👤 Autora
