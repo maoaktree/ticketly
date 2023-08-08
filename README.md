@@ -12,6 +12,8 @@ Arquitetura: Clean Architecture
 
 Gerenciamento de Estado: Provider
 
+Banco de Dados: SQL (utilizando o pacote sqflite)
+
 ## Funcionalidades
 Cadastro de Evento: Através da leitura do código UUID, fornecido no servidor do cliente, os dados do eventos são enviados para o App através da API.
 Gestão de Clientes: Dentro do app, é possível inserir e cadastrar os clientes de diversos eventos.
@@ -27,6 +29,8 @@ Design de Arquitetura: Implementação da Clean Architecture para garantir um c�
 Integração com API: Desenvolvimento da funcionalidade de inserção do código UUID e consumo da API para puxar os dados do evento.
 
 Gestão de Estado: Utilização do Provider para gerenciar o estado do aplicativo e permitir atualizações em tempo real nas telas.
+
+Banco de Dados: Utilização do SQL com o pacote sqflite para gerenciamento de dados.
 
 Testes e Otimização: Testes de funcionalidades e otimização do desempenho.
 
